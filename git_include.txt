@@ -1,0 +1,5 @@
+README.md
+LICENSE
+phrases.md
+daily/*
+git_include.txt
